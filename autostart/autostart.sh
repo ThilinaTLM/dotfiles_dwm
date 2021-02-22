@@ -6,4 +6,5 @@ kdeconnect-cli -l &
 feh $AUTOSTART_DIR/wallpaper --bg-fill &
 ~/.dwm/dwmblocks &
 picom &
+dunst &
 
